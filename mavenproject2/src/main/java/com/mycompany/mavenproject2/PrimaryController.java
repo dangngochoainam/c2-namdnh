@@ -10,3 +10,8 @@ public class PrimaryController {
         App.setRoot("secondary");
     }
 }
+
+
+public class Handle {
+
+}
