@@ -13,5 +13,7 @@ public class PrimaryController {
 
 
 public class Handle {
-
+    int a = 1;
+    int b = 2;
+    int d = a + b;
 }
